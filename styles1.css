@@ -1,0 +1,29 @@
+
+.mid{
+    width: 100%;
+    height: 500px;
+    background-image:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(images/img1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    margin-bottom: 5px;
+}
+.font{
+    text-align: center;
+}
+.useless{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+.footer{
+    background-color: rgb(19, 15, 15);
+    margin: 10px;
+    padding: 20px;
+    height: 230px;
+    color: aliceblue;
+}
+.footer>.container>.row>.col-md-4>.font>ul>li{
+    list-style-type:none;   
+}
+
